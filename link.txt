@@ -1,0 +1,32 @@
+http://steamcommunity.com/profiles/76561198094843381/?xml=1
+
+
+https://partner.steamgames.com/doc/webapi_overview
+
+
+steamid крымов
+76561198094843381
+
+
+api key крымов
+5BE5C879037B998FB521D58496934090
+
+//GetAssetClassInfo
+http://api.steampowered.com/ISteamEconomy/GetAssetClassInfo/v0001/?appid=440&class_count=1&classid0=195151&key=5BE5C879037B998FB521D58496934090
+
+
+
+http://steamcommunity.com/market/pricehistory/?country=RU&currency=3&appid=440&market_hash_name=Wildwood%20SMG%20(Field-Tested)
+
+
+
+Wildwood%20SMG%20(Field-Tested)
+
+
+
+
+
+
+
+
+
